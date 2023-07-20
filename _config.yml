@@ -3,7 +3,7 @@ title: Poole
 tagline: The Jekyll Butler
 url: "https://oleguero.github.io"
 paginate: 1
-baseurl: "https://oleguero.github.io"
+baseurl: ""
 permalink: pretty
 
 # Gems
