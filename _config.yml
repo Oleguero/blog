@@ -1,9 +1,9 @@
 # Setup
 title: Poole
 tagline: The Jekyll Butler
-url: https://oleguero.github.io
+url: "https://oleguero.github.io"
 paginate: 1
-baseurl: ""
+baseurl: "https://oleguero.github.io"
 permalink: pretty
 
 # Gems
